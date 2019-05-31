@@ -1,2 +1,7 @@
 first file on master
+<<<<<<< HEAD
 second udpate from srikanth
+||||||| merged common ancestors
+=======
+update by srikanth
+>>>>>>> master

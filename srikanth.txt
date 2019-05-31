@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 adding new file from srikanth branch
 
 second udpate from srikanth
+||||||| merged common ancestors
+=======
+adding new file from srikanth branch
+>>>>>>> master
